@@ -1,0 +1,40 @@
+# Vivado generated files
+work/
+sim/
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+
+# Waveform files
+*.vcd
+*.fsdb
+*.shm/
+*.trn
+*.dsn
+
+# Simulation files
+simv
+simv.daidir/
+csrc/
+ucli.key
+*.vpd
+
+# Synthesis outputs
+*.dcp
+*.bit
+*.ltx
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Python cache (if scripts added later)
+__pycache__/
+*.pyc
